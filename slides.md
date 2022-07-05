@@ -58,6 +58,11 @@ layout: two-cols
 
 ---
 
+## 实例
+
+
+---
+
 # 现代 CPU 微架构简介
 
 - 指令和指令系统
@@ -148,4 +153,9 @@ $def:  计算强度  = \frac{峰值算力/Flops}{峰值带宽/Bps}$
 - Cache Blocking
 
 
+---
 
+## 进阶资料
+
+- [Denis Bakhvalov's Perf Book](https://book.easyperf.net/perf_book)
+- [Perf-Ninja](https://github.com/dendibakh/perf-ninja)
