@@ -276,6 +276,7 @@ layout: two-cols
 
 - [Denis Bakhvalov's Perf Book](https://book.easyperf.net/perf_book)
 - [Perf-Ninja](https://github.com/dendibakh/perf-ninja)
+- [计算机体系结构基础 -- 胡伟武](https://foxsen.github.io/archbase/index.html)
 
 </template>
 <template v-slot:right>
