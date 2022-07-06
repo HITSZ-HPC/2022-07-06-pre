@@ -17,7 +17,7 @@ jobs:
           cmd: install
       - uses: borales/actions-yarn@v3.0.0
         with:
-          cmd: build # will run `yarn build` command
+          cmd: build --base /2022-07-06-pre/
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:
