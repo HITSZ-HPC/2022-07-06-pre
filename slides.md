@@ -41,8 +41,7 @@ layout: cover
     - SIMD
     - Packing
     - Cache Blocking
-- HPC 竞赛介绍
-
+- 进阶资料
 
 ---
 
@@ -268,8 +267,23 @@ $def:  计算强度  = \frac{峰值算力/Flops}{峰值带宽/Bps}$
 
 
 ---
+layout: two-cols
+---
+
+<template v-slot:default>
 
 ## 进阶资料
 
 - [Denis Bakhvalov's Perf Book](https://book.easyperf.net/perf_book)
 - [Perf-Ninja](https://github.com/dendibakh/perf-ninja)
+
+</template>
+<template v-slot:right>
+
+<Transform :scale="0.5">
+
+![](/Group.jpg)
+
+</Transform>
+
+</template>
